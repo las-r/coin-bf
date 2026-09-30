@@ -1,4 +1,4 @@
-# Coin BF
+# coin-bf
 A brainfuck compiler written in Python that compiles to [COIN](https://github.com/las-r/coin).
 
 ## Usage
