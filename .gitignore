@@ -222,3 +222,6 @@ __marimo__/
 # Coin
 *.bin
 *.exe
+
+# Brainfuck
+*.bf
